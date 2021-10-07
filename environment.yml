@@ -10,3 +10,4 @@ dependencies:
   - astromatic-stiff
   - astroquery
   - pyvo
+  - pandas
