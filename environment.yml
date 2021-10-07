@@ -8,8 +8,5 @@ dependencies:
   - matplotlib
   - astropy
   - astromatic-stiff
-  - urllib
-  - subprocess
-  - PIL
   - astroquery
   - pyvo
