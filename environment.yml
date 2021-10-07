@@ -1,0 +1,15 @@
+name: astro-class
+channels:
+  - conda-forge
+  - astropy
+dependencies:
+  - IPython
+  - numpy
+  - matplotlib
+  - astropy
+  - astromatic-stiff
+  - urllib
+  - subprocess
+  - PIL
+  - astroquery
+  - pyvo
